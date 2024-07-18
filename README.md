@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hjun-kr" alt="hjun-kr" /></a> </p>
 
-- 📝 I regularly write articles on [https://velog.io/@hjun-kr/posts](https://velog.io/@hjun-kr/posts)
+- 📝 My Blog [https://velog.io/@jw_308/posts](https://velog.io/@jw_308/posts)
 
-- 📫 How to reach me **nckceo@gmail.com**
+- 📫 My Email **nckceo@gmail.com**
 
 #
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/jw_.308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phj_0901" height="30" width="40" /></a>
+<a href="https://instagram.com/jw_.308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jw._308" height="30" width="40" /></a>
 </p>
 
 #
