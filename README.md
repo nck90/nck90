@@ -6,13 +6,13 @@
 
 - 📝 I regularly write articles on [https://velog.io/@hjun-kr/posts](https://velog.io/@hjun-kr/posts)
 
-- 📫 How to reach me **hJunpark.p@gmail.com**
+- 📫 How to reach me **nckceo@gmail.com**
 
 #
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/phj_0901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phj_0901" height="30" width="40" /></a>
+<a href="https://instagram.com/jw_.308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phj_0901" height="30" width="40" /></a>
 </p>
 
 #
