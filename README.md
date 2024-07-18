@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello!%20I'm%20soomin-ji&animation=twinkling&fontColor=000000&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello!%20I'm%20junwon-Park&animation=twinkling&fontColor=000000&fontSize=40" />
     </div>
 <h3 align="center">A passionate fullstack developer from Korea<h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hjun-kr&label=Profile%20views&color=0e75b6&style=flat" alt="hjun-kr" /> </p>
