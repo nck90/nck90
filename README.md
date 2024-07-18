@@ -24,8 +24,3 @@
 
 #
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hjun-kr&show_icons=true&locale=en&layout=compact" alt="hjun-kr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hjun-kr&show_icons=true&locale=en" alt="hjun-kr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hjun-kr&" alt="hjun-kr" /></p>
