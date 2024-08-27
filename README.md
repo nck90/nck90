@@ -10,7 +10,8 @@
 
 </div>
 
-<a href="https://solved.ac/nck90"><img width="1174" alt="programmers" src="https://github.com/user-attachments/assets/c2293764-a2af-4d10-a097-16df8061020f">
+<a href="https://solved.ac/nck90">
+    <img width="600" alt="programmers" src="https://github.com/user-attachments/assets/c2293764-a2af-4d10-a097-16df8061020f">
 </a>
 
 - 🎤 [**Code-Cleaner**](https://github.com/nck90/Code-Cleaner) - 기획 및 개발 <sub>(2024.08 ~)</sub>
