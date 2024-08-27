@@ -7,9 +7,8 @@
   <a href="https://velog.io/@jw_308/about"><img src="https://img.shields.io/badge/seondal.log-3DDC84?style=badge&logo=Velog&logoColor=white"/>
 
   ---
-    </div>
     
-  <a href="https://solved.ac/whkakrkr"><img align="right" src="https://github.com/user-attachments/assets/c2293764-a2af-4d10-a097-16df8061020f"/></a>
+
 
 - 🎤 [**Code-Cleaner**](https://github.com/nck90/Code-Cleaner) - 기획 및 개발 <sub>(2024.08 ~)</sub>
 - 🪄 [**MirimInfo**](https://github.com/nck90/MirimInfo) - 기획 참여 및 FE 개발 <sub>(2024.07 ~ )</sub>
