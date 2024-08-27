@@ -10,7 +10,7 @@
     
 </div>
 
-<a href="https://solved.ac/whkakrkr">
+<a href="https://school.programmers.co.kr/skill_checks">
     <img align="right" src="https://github.com/user-attachments/assets/c2293764-a2af-4d10-a097-16df8061020f" width="350" alt="programmers">
 </a>
 
