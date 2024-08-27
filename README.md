@@ -9,15 +9,13 @@
 
 </div>
 
-<a href="https://solved.ac/whkakrkr"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr&theme=dark"/></a>
+<a href="https://solved.ac/nck90"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whkakrkr&theme=dark"/></a>
 
-- 🎤 [PitchFinder](https://github.com/K-CoB/pitch-finder-frontend) - 기획 및 개발 <sub>(2023.09 ~ 24.06)</sub>
-- 🪄 [**PosePicker**](https://github.com/posepicker) - 기획 참여 및 FE 개발 <sub>(2023.07 ~ )</sub>
-- 🏢 **(주)누비랩** - Product Tech Team FE 인턴 <sub>(2023.03 ~ 06)</sub>
-- 🥗 [Eatda(잇다)](https://github.com/eatda) - FE 개발 <sub>(2022.12 ~ 23.02)</sub>
-- 신촌연합 IT 창업동아리 [CEOS](https://github.com/seondal/CEOS-FE-Study) - 16기 FE <sub>(2022.09 ~ 23.02)</sub>
-- 연세대학교 목소리연구실 [실험 웹 페이지 개발](https://github.com/seondal/VoiceLab) 외주 <sub>(2022.08)</sub>
-- I Say Lab 언어연구소 [홈페이지 개발](https://github.com/seondal/ChildCare) 외주 <sub>(2021.12)</sub>
+- 🎤 [**Code-Cleaner**](https://github.com/K-CoB/pitch-finder-frontend) - 기획 및 개발 <sub>(2024.08 ~)</sub>
+- 🪄 [**MirimInfo**](https://github.com/posepicker) - 기획 참여 및 FE 개발 <sub>(2024.07 ~ )</sub>
+- 🪄 [**QuestLink**](https://github.com/posepicker) [앱잼 26회 생활파트 최우수상] - 기획 참여 및 FE 개발 <sub>(2024.06)</sub>
+- 🪄 [**너나 잘하세요**](https://github.com/posepicker) [앱잼 27회 생활파트 우수상] - 기획 참여 및 FE 개발 <sub>(2024.08)</sub>
+- YEEP 창업 동아리(물이랑) [청소년 창업 경진 대회 우수상]) 기획 및 개발 <sub>(2023.3 ~ 2023.11)</sub>
 
 <br/>
 
@@ -25,18 +23,21 @@
 <summary>Activity</summary>
 <div markdown="1">
 
-|기간|활동|기수|
+|기간|활동|이력|
 |:-:|-:|:-|
-|<sub>2024.02 ~ </sub> | SK **Devocean Young** | 3기 |
-|<sub>2024.02 ~ 24.07</sub> | Klaytn Dev Ambassador | 3기 |
-|<sub>2023.09 ~ 24.07</sub>| 교내 블록체인 학회 **Ewha Chain** | 12기 |
-|<sub>2023.07 ~ 23.08</sub>| 코드잇 엠버서더 | 1기 |
-|<sub>2023.07 ~ 23.08</sub>| 전국 연합 IT 동아리 **DND** | 9기 개발 |
-|<sub>2022.09 ~ 23.02</sub>| 신촌연합 IT 창업동아리 **CEOS** | 16기 프론트 |
-|<sub>2022.09 ~ 23.02</sub>| 교내 정보보안 동아리 **E-COPS** | 11기 |
-|<sub>2021.09 ~ 22.02</sub>| 전국 대학생 연합 IT 창업동아리 **SOPT** | 29기 iOS |
-|<sub>2021.09 ~ 22.07</sub>| Google Developer Students Club Ewha | 3기 Core Member  |
-|<sub>2021.03 ~ 21.12</sub>| 교내 웹개발 커리어클럽 **EFUB** | 1기 프론트 |
+|<sub>2024.02 ~ </sub> | 앱잼 27회 생활파트 기획 및 개발 | 우수상 |
+|<sub>2024.02 ~ 24.07</sub> |앱잼 26회 생활파트 기획 및 개발 | 최우수상 |
+|<sub>2023.09 ~ 24.07</sub>| 서울 공공데이터 활용 경진대회 | 최우수상 |
+|<sub>2023.09 ~ 24.07</sub>| 환경데이터 활용 경진대회 | 우수상 |
+|<sub>2023.09 ~ 24.07</sub>|  | 최우수상 |
+|<sub>2023.09 ~ 24.07</sub>| 서울 공공데이터 활용 경진대회 | 최우수상 |
+|<sub>2023.07 ~ 23.08</sub>| 서대문구 중등연합 IT 창업동아리 KOS | 1기 회장 |
+|<sub>2023.07 ~ 23.08</sub>| 교내 정보보안 동아리 E-COPS | 1기 회장 |
+|<sub>2022.09 ~ 23.02</sub>| MAS 전공동아리 | 16기 프론트 |
+|<sub>2022.09 ~ 23.02</sub>| 교내 프로그래밍 동아리 **I-Programming** | 1기 회장 |
+|<sub>2021.09 ~ 22.02</sub>| u300 창업대회 | 준결선 |
+|<sub>2021.09 ~ 22.07</sub>| INCHANG Developer club| 1기 회장  |
+|<sub>2021.03 ~ 21.12</sub>| YEEP 청소년 창업 경진대회 | 우수상 |
 
 
 </div>
