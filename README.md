@@ -11,7 +11,7 @@
 </div>
 
 <a href="https://solved.ac/whkakrkr">
-    <img align="right" src="https://github.com/user-attachments/assets/c2293764-a2af-4d10-a097-16df8061020f" width="300" alt="programmers">
+    <img align="right" src="https://github.com/user-attachments/assets/c2293764-a2af-4d10-a097-16df8061020f" width="350" alt="programmers">
 </a>
 
 - 🎤 [**Code-Cleaner**](https://github.com/nck90/Code-Cleaner) - 기획 및 개발 <sub>(2024.08 ~)</sub>
