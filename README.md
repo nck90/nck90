@@ -10,7 +10,9 @@
     
 </div>
 
-<a href="https://solved.ac/whkakrkr"><img align="right" src="https://github.com/user-attachments/assets/c2293764-a2af-4d10-a097-16df8061020f"/></a>
+<a href="https://solved.ac/whkakrkr">
+    <img align="right" src="https://github.com/user-attachments/assets/c2293764-a2af-4d10-a097-16df8061020f" width="200" alt="programmers">
+</a>
 
 - 🎤 [**Code-Cleaner**](https://github.com/nck90/Code-Cleaner) - 기획 및 개발 <sub>(2024.08 ~)</sub>
 - 🪄 [**MirimInfo**](https://github.com/nck90/MirimInfo) - 기획 참여 및 FE 개발 <sub>(2024.07 ~ )</sub>
