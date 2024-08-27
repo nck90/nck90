@@ -10,9 +10,11 @@
 
 </div>
 
-<a href="https://solved.ac/nck90">
-    <img width="400" alt="programmers" src="https://github.com/user-attachments/assets/c2293764-a2af-4d10-a097-16df8061020f" style="float: right;">
-</a>
+<div style="overflow: hidden;">
+    <a href="https://solved.ac/nck90">
+        <img width="400" alt="programmers" src="https://github.com/user-attachments/assets/c2293764-a2af-4d10-a097-16df8061020f" style="float: right; margin-left: 20px;">
+    </a>
+    </div>
 
 - 🎤 [**Code-Cleaner**](https://github.com/nck90/Code-Cleaner) - 기획 및 개발 <sub>(2024.08 ~)</sub>
 - 🪄 [**MirimInfo**](https://github.com/nck90/MirimInfo) - 기획 참여 및 FE 개발 <sub>(2024.07 ~ )</sub>
