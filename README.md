@@ -7,6 +7,7 @@
   <a href="https://velog.io/@jw_308/about"><img src="https://img.shields.io/badge/seondal.log-3DDC84?style=badge&logo=Velog&logoColor=white"/>
 
   ---
+    </div>
     
   <a href="https://solved.ac/whkakrkr"><img align="right" src="https://github.com/user-attachments/assets/c2293764-a2af-4d10-a097-16df8061020f"/></a>
 
