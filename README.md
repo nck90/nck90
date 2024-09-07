@@ -4,7 +4,7 @@
   
   <img align="right" width="23" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
 
-  <a href="https://velog.io/@jw_308/about"><img src="https://img.shields.io/badge/seondal.log-3DDC84?style=badge&logo=Velog&logoColor=white"/>
+  <a href="https://velog.io/@jw_308/about"><img src="https://img.shields.io/badge/jw_308.log-3DDC84?style=badge&logo=Velog&logoColor=white"/>
 
   ---
     
