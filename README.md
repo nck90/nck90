@@ -21,7 +21,7 @@
 - YEEP 창업 동아리(물이랑) [청소년 창업 경진 대회 우수상]) 기획 및 개발 <sub>(2023.3 ~ 2023.11)</sub>
 
 <br/>
-[![nck90's GitHub stats](https://github-readme-stats.vercel.app/api?username=nck90)](https://github.com/nck90/github-readme-stats)
+
 <details>
 <summary>Activity</summary>
 <div markdown="1">
