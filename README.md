@@ -15,7 +15,7 @@
 </a>
 
 - 🎤 [**Code-Cleaner**](https://github.com/nck90/Code-Cleaner) - 기획 및 개발 <sub>(2024.08 ~)</sub>
-- 🪄 [**MirimInfo**](https://github.com/nck90/MirimInfo) - 기획 참여 및 FE 개발 <sub>(2024.07 ~ )</sub>
+- 🪄 [**MirimInfo**](https://github.com/nck90/MirimInfo) - 기획 및 FE 개발 <sub>(2024.07 ~ )</sub>
 - 🪄 [**QuestLink**]() [앱잼 26회 생활파트 최우수상] - 기획 참여 및 FE 개발 <sub>(2024.06)</sub>
 - 🪄 [**너나 잘하세요**](https://github.com/orgs/sjskwkfgotpdy/repositories) [앱잼 27회 생활파트 우수상] - 기획 참여 및 FE 개발 <sub>(2024.08)</sub>
 - YEEP 창업 동아리(물이랑) [청소년 창업 경진 대회 우수상]) 기획 및 개발 <sub>(2023.3 ~ 2023.11)</sub>
